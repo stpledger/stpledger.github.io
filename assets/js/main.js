@@ -38,6 +38,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	});
 
 	// Touch?
+	/*
 	if (browser.mobile) {
 
 		// Turn on touch mode.
@@ -48,7 +49,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 			$window.scrollTop($window.scrollTop() + 1);
 		}, 0);
 
-	}
+	}*/
 
 	// Footer.
 	breakpoints.on('<=medium', function() {
